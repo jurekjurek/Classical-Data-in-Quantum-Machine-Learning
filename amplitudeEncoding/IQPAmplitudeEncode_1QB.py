@@ -1,3 +1,7 @@
+'''
+We alter the IQP ansatz to include Amplitude Encoding onto one qubit. 
+'''
+
 from __future__ import annotations
 
 # __all__ = ['CircuitAnsatz',

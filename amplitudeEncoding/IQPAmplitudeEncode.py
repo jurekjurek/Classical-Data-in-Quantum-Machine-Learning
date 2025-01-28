@@ -1,5 +1,5 @@
 '''
-In this file, we capture the rewritten ansatz to amplitude encode nouns in a circuit. 
+We alter the IQP ansatz to include amplitude encoding onto TWO qubits
 '''
 
 from __future__ import annotations
