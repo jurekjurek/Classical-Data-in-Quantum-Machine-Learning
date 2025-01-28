@@ -11,5 +11,6 @@ In folder 'AmplitudeEncoding', the code for the task of amplitude encoding class
 
 Lastly, in folder 'Entropy', the code capturing the entropy of different density matrices modelling sentences with varying levels of ambiguity are presented. 
 
-In 'modelParameters', the parameters of the trained models are saved as .pkl files. These are visualised using code in the folder 'visualisation'. 
+In 'modelParameters', the parameters of the trained models are saved as .pkl files. 
 In 'weights', the weights of the different models are captured to be able to construct the VQCs after the training procedure, using Python. 
+In 'blochPlots', the plots of the noun states are displayed on the Bloch sphere for the different models. 
