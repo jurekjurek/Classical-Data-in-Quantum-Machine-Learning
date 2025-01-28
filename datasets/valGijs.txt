@@ -1,0 +1,30 @@
+skillful person prepares application
+chef prepares tasty meal
+chef prepares tasty sauce
+person bakes tasty meal
+programmer prepares useful program
+programmer runs program
+person prepares dinner
+chef bakes sauce
+programmer prepares software
+person prepares useful software
+skillful person reads program
+person reads application
+person cooks tasty dinner
+skillful person reads software
+chef bakes tasty sauce
+skillful programmer runs software
+skillful person prepares sauce
+person reads useful program
+programmer runs application
+person prepares tasty dinner
+programmer reads useful software
+programmer runs useful application
+chef bakes tasty dinner
+person prepares program
+programmer reads useful application
+skillful programmer prepares application
+programmer reads application
+programmer prepares useful application
+programmer reads useful program
+chef cooks sauce

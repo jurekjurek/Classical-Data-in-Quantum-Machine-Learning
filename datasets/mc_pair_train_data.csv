@@ -1,0 +1,300 @@
+person runs program .,skillful person cooks meal .,0
+skillful man bakes dinner .,woman runs program .,0
+man bakes tasty dinner .,person cooks meal .,1
+woman runs application .,skillful man prepares program .,1
+man bakes tasty meal .,man runs software .,0
+woman prepares sauce .,person cooks meal .,1
+person runs program .,skillful woman prepares meal .,0
+skillful person bakes sauce .,person bakes tasty sauce .,1
+woman prepares tasty meal .,skillful woman prepares meal .,1
+skillful man bakes meal .,person prepares tasty sauce .,1
+skillful man bakes dinner .,man cooks tasty meal .,1
+skillful man bakes dinner .,person prepares useful application .,0
+woman prepares tasty meal .,man runs software .,0
+man bakes tasty meal .,woman runs program .,0
+person prepares tasty meal .,woman runs software .,0
+man bakes tasty sauce .,person prepares tasty sauce .,1
+skillful man bakes dinner .,woman cooks tasty dinner .,1
+man runs software .,skillful man runs software .,1
+skillful woman bakes meal .,person cooks sauce .,1
+skillful person bakes sauce .,skillful man runs software .,0
+skillful man bakes meal .,skillful man debugs software .,0
+man bakes tasty meal .,woman cooks dinner .,1
+woman runs program .,person prepares useful application .,1
+skillful woman runs program .,person runs useful program .,1
+man bakes tasty dinner .,person runs useful program .,0
+skillful man prepares sauce .,skillful woman prepares meal .,1
+skillful person prepares meal .,person prepares useful program .,0
+skillful man bakes meal .,man debugs program .,0
+skillful man cooks dinner .,woman runs software .,0
+man bakes tasty dinner .,skillful person bakes meal .,1
+woman prepares dinner .,person bakes dinner .,1
+man bakes tasty meal .,person debugs useful application .,0
+man prepares useful application .,skillful person bakes meal .,0
+person runs program .,person cooks dinner .,0
+woman prepares tasty meal .,skillful person bakes sauce .,1
+man prepares application .,skillful woman bakes sauce .,0
+woman prepares tasty meal .,skillful woman runs program .,0
+person cooks dinner .,man prepares application .,0
+skillful man cooks dinner .,woman bakes tasty meal .,1
+man prepares software .,skillful person cooks meal .,0
+woman cooks tasty meal .,man bakes tasty sauce .,1
+skillful man prepares program .,skillful person cooks meal .,0
+person runs software .,person bakes dinner .,0
+person runs useful application .,woman debugs software .,1
+skillful woman prepares meal .,man cooks tasty sauce .,1
+skillful woman debugs program .,woman debugs software .,1
+skillful man cooks sauce .,person runs useful program .,0
+man debugs useful application .,skillful woman bakes sauce .,0
+person cooks dinner .,skillful man debugs software .,0
+person bakes tasty sauce .,skillful person cooks meal .,1
+skillful woman bakes meal .,woman runs software .,0
+skillful woman debugs program .,person prepares useful program .,1
+woman cooks tasty meal .,woman bakes tasty meal .,1
+person prepares tasty meal .,person prepares useful program .,0
+person prepares useful program .,person cooks sauce .,0
+skillful woman debugs program .,person bakes dinner .,0
+person prepares tasty meal .,skillful man debugs software .,0
+person runs program .,person debugs useful application .,1
+skillful man prepares program .,man cooks dinner .,0
+person cooks dinner .,man debugs program .,0
+skillful person prepares meal .,skillful man bakes meal .,1
+skillful woman prepares meal .,skillful man bakes meal .,1
+man debugs useful software .,person cooks meal .,0
+woman runs useful application .,woman bakes tasty meal .,0
+man bakes tasty dinner .,man prepares useful application .,0
+skillful woman debugs program .,skillful woman prepares meal .,0
+skillful person prepares meal .,man cooks tasty sauce .,1
+person runs software .,man debugs program .,1
+woman runs application .,woman runs program .,1
+skillful person prepares meal .,woman runs program .,0
+skillful man cooks meal .,man prepares dinner .,1
+man prepares application .,person debugs useful software .,1
+man bakes tasty dinner .,woman runs program .,0
+woman bakes tasty meal .,person cooks meal .,1
+man bakes tasty meal .,skillful man debugs software .,0
+woman prepares program .,skillful person cooks meal .,0
+man prepares meal .,person debugs useful software .,0
+person prepares tasty meal .,skillful man cooks dinner .,1
+skillful man bakes dinner .,skillful person cooks meal .,1
+woman prepares program .,man prepares application .,1
+person runs application .,skillful man debugs software .,1
+man bakes tasty dinner .,person cooks dinner .,1
+skillful woman debugs program .,person runs program .,1
+woman runs useful application .,person bakes tasty sauce .,0
+person prepares useful application .,person runs useful program .,1
+woman prepares program .,skillful man cooks dinner .,0
+woman runs useful application .,person cooks sauce .,0
+woman cooks dinner .,skillful person bakes sauce .,1
+person debugs useful software .,person prepares useful application .,1
+skillful man prepares program .,woman debugs useful program .,1
+woman prepares dinner .,skillful person prepares meal .,1
+man prepares software .,person cooks sauce .,0
+woman runs application .,man bakes tasty sauce .,0
+man runs software .,person bakes tasty sauce .,0
+person prepares tasty sauce .,man debugs program .,0
+man prepares software .,woman debugs software .,1
+man cooks tasty meal .,skillful person cooks meal .,1
+woman cooks meal .,skillful man debugs software .,0
+woman debugs useful program .,man cooks tasty sauce .,0
+person runs application .,skillful woman bakes sauce .,0
+person cooks dinner .,man cooks dinner .,1
+man bakes tasty meal .,woman runs software .,0
+woman prepares sauce .,skillful man cooks sauce .,1
+man bakes tasty sauce .,skillful woman runs program .,0
+woman cooks tasty dinner .,man runs software .,0
+woman prepares tasty meal .,man bakes tasty sauce .,1
+woman cooks tasty meal .,skillful man runs software .,0
+person runs program .,woman debugs software .,1
+woman prepares dinner .,skillful man cooks sauce .,1
+skillful person prepares meal .,person debugs useful application .,0
+skillful man bakes meal .,skillful person bakes sauce .,1
+man prepares meal .,woman debugs application .,0
+man prepares application .,skillful man cooks sauce .,0
+man prepares application .,woman runs software .,1
+skillful man cooks meal .,skillful person bakes meal .,1
+person prepares software .,woman bakes tasty meal .,0
+woman runs application .,woman debugs useful program .,1
+man debugs program .,woman debugs software .,1
+skillful man prepares sauce .,person runs software .,0
+person runs useful application .,person prepares tasty meal .,0
+person runs software .,skillful person cooks meal .,0
+man bakes tasty dinner .,woman prepares program .,0
+man debugs useful application .,woman cooks meal .,0
+woman cooks meal .,person cooks sauce .,1
+skillful person prepares meal .,woman runs useful application .,0
+skillful man prepares program .,woman cooks tasty dinner .,0
+skillful man prepares sauce .,man bakes tasty meal .,1
+man prepares software .,person bakes tasty sauce .,0
+woman cooks dinner .,person cooks meal .,1
+skillful person bakes dinner .,skillful man debugs software .,0
+man bakes tasty sauce .,person bakes tasty sauce .,1
+person runs program .,man bakes tasty sauce .,0
+man debugs useful application .,woman bakes tasty meal .,0
+skillful woman prepares meal .,person prepares software .,0
+skillful person prepares meal .,skillful woman prepares meal .,1
+person prepares tasty sauce .,man runs software .,0
+person prepares software .,skillful man runs software .,1
+skillful man prepares sauce .,man prepares meal .,1
+woman prepares program .,man cooks tasty meal .,0
+man cooks dinner .,woman debugs useful program .,0
+skillful man bakes dinner .,skillful woman bakes meal .,1
+person runs program .,man cooks tasty sauce .,0
+person cooks dinner .,man prepares dinner .,1
+person debugs useful application .,woman cooks dinner .,0
+person prepares tasty meal .,man cooks tasty sauce .,1
+man prepares meal .,skillful man cooks meal .,1
+woman runs application .,person prepares useful program .,1
+woman prepares tasty meal .,person debugs useful application .,0
+man cooks dinner .,skillful man cooks sauce .,1
+skillful woman debugs program .,man bakes tasty dinner .,0
+person prepares software .,skillful woman runs program .,1
+person runs useful application .,person bakes dinner .,0
+woman prepares sauce .,skillful person prepares meal .,1
+woman runs software .,man cooks tasty sauce .,0
+skillful man cooks sauce .,person bakes tasty sauce .,1
+skillful person prepares meal .,woman cooks dinner .,1
+man prepares software .,man cooks tasty sauce .,0
+skillful man prepares software .,person runs useful program .,1
+skillful man bakes meal .,man runs software .,0
+woman runs useful application .,woman debugs useful program .,1
+person prepares tasty sauce .,woman bakes tasty meal .,1
+woman runs useful application .,man bakes tasty dinner .,0
+person debugs useful application .,person bakes tasty sauce .,0
+person debugs useful software .,person runs useful program .,1
+skillful woman prepares meal .,skillful person cooks sauce .,1
+woman bakes dinner .,man prepares dinner .,1
+skillful person cooks sauce .,skillful person bakes sauce .,1
+woman runs program .,person cooks sauce .,0
+person runs useful application .,woman cooks tasty dinner .,0
+woman runs application .,person runs software .,1
+man bakes tasty meal .,woman debugs application .,0
+man prepares meal .,woman debugs useful program .,0
+skillful man cooks dinner .,person debugs useful software .,0
+skillful man bakes dinner .,person prepares useful program .,0
+man cooks tasty sauce .,skillful woman runs program .,0
+man debugs program .,person bakes tasty sauce .,0
+person prepares tasty meal .,man prepares application .,0
+man cooks tasty sauce .,skillful person bakes meal .,1
+skillful man prepares sauce .,person runs application .,0
+skillful woman debugs program .,man debugs useful software .,1
+man prepares meal .,woman cooks tasty dinner .,1
+person prepares tasty meal .,man prepares useful application .,0
+skillful woman debugs program .,skillful person bakes dinner .,0
+skillful man bakes dinner .,person bakes dinner .,1
+man prepares useful application .,man bakes tasty sauce .,0
+man prepares dinner .,woman debugs application .,0
+person prepares tasty meal .,woman debugs application .,0
+person prepares useful program .,man debugs useful application .,1
+man cooks dinner .,person prepares tasty sauce .,1
+man bakes tasty meal .,man prepares software .,0
+woman prepares sauce .,person cooks dinner .,1
+woman debugs software .,person bakes tasty sauce .,0
+person bakes tasty sauce .,woman debugs application .,0
+woman runs software .,person cooks meal .,0
+woman runs application .,man prepares application .,1
+woman runs software .,woman debugs software .,1
+person runs application .,man cooks tasty meal .,0
+skillful woman bakes meal .,person runs application .,0
+woman prepares tasty meal .,woman debugs software .,0
+woman prepares tasty meal .,skillful person bakes meal .,1
+woman cooks meal .,skillful person bakes sauce .,1
+man debugs useful software .,man debugs program .,1
+skillful man bakes meal .,person prepares useful application .,0
+skillful woman bakes sauce .,woman cooks tasty dinner .,1
+skillful man cooks meal .,man cooks tasty meal .,1
+man prepares meal .,person debugs useful application .,0
+person runs program .,skillful person bakes dinner .,0
+man prepares meal .,person runs software .,0
+person runs application .,skillful person cooks sauce .,0
+skillful man cooks dinner .,woman bakes dinner .,1
+person runs program .,person prepares useful application .,1
+woman runs application .,skillful man cooks sauce .,0
+skillful woman bakes meal .,woman runs program .,0
+woman runs program .,woman bakes tasty meal .,0
+woman prepares sauce .,person bakes tasty sauce .,1
+skillful person bakes dinner .,person bakes tasty sauce .,1
+skillful man cooks meal .,skillful person cooks sauce .,1
+woman runs application .,person cooks meal .,0
+skillful woman debugs program .,man bakes tasty sauce .,0
+woman bakes dinner .,person cooks sauce .,1
+skillful man cooks sauce .,woman debugs useful program .,0
+person runs program .,woman prepares dinner .,0
+man prepares meal .,person runs useful application .,0
+person prepares tasty sauce .,person bakes tasty sauce .,1
+skillful man prepares sauce .,person bakes dinner .,1
+woman prepares tasty meal .,woman bakes tasty meal .,1
+person prepares tasty meal .,man runs software .,0
+skillful person prepares meal .,person prepares software .,0
+person runs application .,woman debugs application .,1
+man cooks dinner .,skillful person bakes sauce .,1
+skillful man debugs software .,person bakes dinner .,0
+man bakes tasty meal .,person prepares tasty meal .,1
+person runs application .,woman runs software .,1
+man prepares meal .,man cooks dinner .,1
+skillful person prepares meal .,man cooks dinner .,1
+skillful woman prepares meal .,skillful person bakes meal .,1
+skillful man prepares sauce .,woman prepares dinner .,1
+person debugs useful software .,woman bakes dinner .,0
+man prepares software .,skillful woman runs program .,1
+skillful man prepares program .,skillful man prepares software .,1
+person prepares useful program .,person runs software .,1
+skillful man bakes meal .,woman bakes tasty meal .,1
+man debugs program .,skillful woman runs program .,1
+man cooks dinner .,man runs software .,0
+woman prepares dinner .,person bakes tasty sauce .,1
+skillful woman bakes meal .,man prepares application .,0
+man debugs useful application .,skillful man prepares software .,1
+man bakes tasty meal .,skillful woman bakes sauce .,1
+man prepares meal .,skillful man debugs software .,0
+woman debugs application .,man cooks tasty meal .,0
+person prepares tasty sauce .,person cooks sauce .,1
+man prepares meal .,person prepares tasty sauce .,1
+person debugs useful application .,skillful woman runs program .,1
+man prepares meal .,woman bakes dinner .,1
+man prepares meal .,woman prepares tasty meal .,1
+woman debugs useful program .,skillful person bakes meal .,0
+skillful man debugs software .,woman cooks dinner .,0
+woman cooks dinner .,person cooks sauce .,1
+person prepares software .,person bakes dinner .,0
+woman prepares dinner .,person runs useful program .,0
+man prepares meal .,skillful man bakes meal .,1
+man bakes tasty sauce .,woman debugs application .,0
+skillful woman debugs program .,man cooks tasty meal .,0
+skillful person bakes dinner .,person runs useful program .,0
+skillful woman debugs program .,person prepares tasty meal .,0
+skillful woman debugs program .,woman runs useful application .,1
+person prepares tasty meal .,person prepares tasty sauce .,1
+person runs application .,person prepares tasty sauce .,0
+person runs useful application .,skillful man cooks meal .,0
+person cooks meal .,man cooks tasty sauce .,1
+woman runs application .,woman cooks tasty dinner .,0
+woman debugs application .,woman debugs useful program .,1
+woman cooks tasty meal .,man prepares application .,0
+woman prepares tasty meal .,person runs program .,0
+skillful man bakes meal .,woman runs software .,0
+person prepares useful application .,person bakes dinner .,0
+skillful man prepares software .,person prepares tasty sauce .,0
+woman prepares program .,skillful woman bakes sauce .,0
+man prepares software .,person prepares tasty sauce .,0
+woman runs useful application .,skillful woman bakes sauce .,0
+person debugs useful application .,person runs useful program .,1
+person prepares tasty meal .,man cooks tasty meal .,1
+man prepares software .,skillful person bakes meal .,0
+person debugs useful software .,person cooks meal .,0
+woman prepares sauce .,person debugs useful application .,0
+man debugs useful application .,person bakes tasty sauce .,0
+skillful man prepares program .,person prepares useful application .,1
+skillful woman debugs program .,skillful man bakes meal .,0
+skillful man prepares sauce .,skillful man debugs software .,0
+skillful man prepares program .,woman debugs application .,1
+man runs software .,man cooks tasty sauce .,0
+person runs program .,man prepares software .,1
+skillful woman debugs program .,woman runs program .,1
+person runs software .,skillful woman runs program .,1
+woman runs useful application .,skillful person bakes meal .,0
+man bakes tasty sauce .,man debugs program .,0
+woman prepares sauce .,skillful woman prepares meal .,1
+man debugs useful software .,person runs application .,1
+skillful woman debugs program .,woman runs application .,1
+woman runs application .,woman cooks meal .,0

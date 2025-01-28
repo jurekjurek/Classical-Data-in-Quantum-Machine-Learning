@@ -1,0 +1,71 @@
+dog hunts cat 			True
+giraffe hunts duck 		True 
+elephant hunts giraffe 		True 
+snake hunts snail 		True 
+Elephant hunts snail 		True 
+Giraffe hunts snail 		True
+dog hunts snail 		True 
+cat hunts snail 		True 
+
+snake is long 			True 
+giraffe is tall			True 
+duck is small 			True 
+elephant is big 		True 
+cat is fast 			True 
+dog is lazy			True 
+snail is slow 			True 
+
+cat hunts dog 			False			
+duck hunts giraffe 		False
+giraffe hunts elephant 		False
+snake hunts snail 		False
+
+snake is tall 			False
+snake is small 			False
+snake is big 			False
+snake is fast 			False
+snake is lazy 			False
+snake is slow 			False	
+
+giraffe is long			False 
+giraffe is small		False 
+giraffe is big			False 
+giraffe is fast			False 
+giraffe is lazy			False			
+giraffe is slow			False 
+
+duck is long			False 
+duck is tall			False			
+duck is big 			False
+duck is fast			False 
+duck is lazy			False			
+duck is slow 			False
+
+elephant is long		False 
+elephant is tall		False			
+elephant is small		False 
+elephant is fast		False 
+elephant is lazy		False			
+elephant is slow 		False
+
+cat is long			False 
+cat is tall			False			
+cat is small			False 
+cat is big 			False
+cat is lazy			False			
+cat is slow 			False
+
+dog is long			False 
+dog is tall			False			
+dog is small			False 
+dog is big 			False
+dog is fast 			False
+dog is slow			False 
+
+
+snail is long 			False
+snail is tall			False			
+snail is small			False 
+snail is big 			False
+snail is fast			False 
+snail is lazy			False			

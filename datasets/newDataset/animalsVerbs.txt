@@ -1,0 +1,66 @@
+1 dog hunts cat
+1 giraffe hunts spider
+1 dog hunts spider
+1 cat hunts spider
+1 giraffe hunts cat
+1 giraffe hunts dog
+1 lion hunts dog
+1 lion hunts cat
+1 lion hunts giraffe
+1 lion hunts spider
+1 bear hunts spider
+1 bear hunts dog
+1 bear hunts cat
+1 bear hunts giraffe
+1 bear hunts lion
+1 lion hunts bear
+0 cat hunts bear
+0 dog hunts bear
+0 spider hunts bear
+0 giraffe hunts bear
+0 cat hunts lion
+0 dog hunts lion
+0 spider hunts lion
+0 giraffe hunts lion
+0 cat hunts dog
+0 spider hunts giraffe
+0 spider hunts dog
+0 spider hunts cat
+0 dog hunts giraffe
+0 cat hunts giraffe
+1 cat hides
+1 dog yells
+1 spider scares
+1 giraffe runs
+1 lion dominates
+1 bear screams
+1 spider hides
+1 bear scares
+1 cat runs
+1 lion scares
+1 giraffe dominates
+1 dog screams
+1 spider runs
+1 bear dominates
+1 cat yells
+1 lion runs
+1 giraffe yells
+1 dog runs
+0 cat scares
+0 dog scares
+0 spider dominates
+0 giraffe scares
+0 lion screams
+0 bear runs
+0 spider yells
+0 bear yells
+0 cat scream
+0 lion yell
+0 giraffe scream
+0 dog hide
+0 spider scream
+0 bear hides
+0 cat dominates
+0 lion hide
+0 giraffe hide
+0 dog dominate
