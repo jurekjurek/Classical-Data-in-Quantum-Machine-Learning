@@ -10,3 +10,5 @@ In folder 'Replication', the code for the replication task is collected. The hyp
 In folder 'AmplitudeEncoding', the code for the task of amplitude encoding classical data on a quantum circuit is collected. Loss curves, as well as various performance metrics are created after the training. 
 
 Lastly, in folder 'Entropy', the code capturing the entropy of different density matrices modelling sentences with varying levels of ambiguity are presented. 
+
+In 'modelParameters', the parameters of the trained models are saved as .pkl files. These are visualised using code in the folder 'visualisation'. 
